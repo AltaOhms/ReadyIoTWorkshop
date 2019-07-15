@@ -144,7 +144,7 @@ If you're on Windows make sure to **not** go for the "Windows App", and instead 
 
 ### Install ST-Link drivers
 
-If you are running Windows: Download and install USB driver [from STMicroelectronics website](https://www.st.com/en/development-tools/stsw-link009.html).
+If you are running Windows: Download USB driver [from STMicroelectronics website](https://www.st.com/en/development-tools/stsw-link009.html), unzip, and install it by running  `dpinst_amd64.exe` on 64-bit machines, `dpinst_x86.exe` on 32-bit machines.
 
 ### Configure Azure IoT Tools
 

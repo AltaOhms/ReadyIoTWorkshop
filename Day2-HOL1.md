@@ -142,6 +142,10 @@ After Wi-Fi is configured, your credentials will persist on the device for that 
 Download the Arduino IDE from <https://www.arduino.cc/en/Main/Software>.
 If you're on Windows make sure to **not** go for the "Windows App", and instead install via the good ol' installer.
 
+### Install ST-Link drivers
+
+If you are running Windows: Download and install USB driver [from STMicroelectronics website](https://www.st.com/en/development-tools/stsw-link009.html).
+
 ### Configure Azure IoT Tools
 
 > [!NOTE]  

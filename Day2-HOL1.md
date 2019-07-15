@@ -137,6 +137,11 @@ After Wi-Fi is configured, your credentials will persist on the device for that 
 
 ## Prepare the development environment
 
+### Download Arduino IDE
+
+Download the Arduino IDE from <https://www.arduino.cc/en/Main/Software>.
+If you're on Windows make sure to **not** go for the "Windows App", and instead install via the good ol' installer.
+
 ### Configure Azure IoT Tools
 
 > [!NOTE]  

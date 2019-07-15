@@ -244,10 +244,9 @@ You can use [Azure IoT Tools](https://marketplace.visualstudio.com/items?itemNam
 1. In VS Code, click `F1`, type and select **Azure IoT Hub: Set IoT Hub Connection String**. Copy the connection string into it.
     ![Set Azure IoT Hub connection string](images/IoTHub-Lab/set-iothub-connection-string.png)
 
-1. Expand the **AZURE IOT HUB DEVICES** pane on the right, right click on the device name you created and select **Start Monitoring D2C Message**.
-    ![Monitor D2C Message](images/IoTHub-Lab/monitor-d2c.png)
+1. Expand the **AZURE IOT HUB DEVICES** pane on the right, right click on the device name you created and select **Start Monitoring Built-in Event Endpoint**.
 
-1. In **OUTPUT** pane, you can see the incoming D2C messages to the IoT Hub.
+2. In **OUTPUT** pane, you can see the incoming D2C messages to the IoT Hub.
     ![D2C message](images/IoTHub-Lab/d2c-output.png)
 
 ## Finished!

@@ -93,7 +93,7 @@ Locate a storage device mounted to your PC.  The volume name is `AZ3166`
 
 ![DevKit Drive](images/DevKitDrive.PNG)
 
-Download [the latest firmware](MXChip/devkit-firmware-1.6.2.bin), and save or copy/paste the BIN file to `AZ3166` drive.
+Download [the latest firmware](https://aka.ms/devkit/prod/getstarted/latest), and save or copy/paste the BIN file to `AZ3166` drive.
 
 The DevKit will automatically reboot to complete FW update process.
 

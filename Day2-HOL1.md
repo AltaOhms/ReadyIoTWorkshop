@@ -122,9 +122,9 @@ Open **[192.168.0.1](http://192.168.0.1)** in the browser. Select the Wi-Fi that
 ![Wi-Fi](images/IoTHub-Lab/Wifi-Setup.png)
 
 > [!NOTE]  
-> Bootcamp SSID  
-> SSID : BootCampAP  
-> Password : Password!1
+> Microsoft Ready SSID  
+> SSID : MSFTWIFI  
+> Password : Microsoft
 
 When the connection succeeds, the DevKit reboots in a few seconds. You then see the Wi-Fi name and IP address on the screen.
 

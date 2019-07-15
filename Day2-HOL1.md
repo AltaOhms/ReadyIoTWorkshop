@@ -64,7 +64,7 @@ Select your device and copy the connection string. Save the connection string to
 
 ## Connect MXChip Device
 
-![MXChip](images/IoTHub-Lab/MxChip.png)
+![MXChip](images/IoTHub-Lab/MXChip.png)
 
 You can use the [MXChip IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/) to develop and prototype Internet of Things (IoT) solutions that take advantage of Microsoft Azure services. It includes an Arduino-compatible board with rich peripherals and sensors, an open-source board package, and a growing [projects catalog](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/).
 
@@ -75,7 +75,7 @@ Hook up the following hardware to your computer:
 * DevKit board
 * Micro-USB cable
 
-  ![Required hardware](images/IoTHub-Lab/MxChip_hardware.png)
+  ![Required hardware](images/IoTHub-Lab/MXChip_hardware.png)
 
 To connect the DevKit to your computer, follow these steps:
 
@@ -85,7 +85,7 @@ To connect the DevKit to your computer, follow these steps:
 
 3. The green LED for power confirms the connection.
 
-   ![Hardware connections](images/IoTHub-Lab/MxChip_connect.jpg)
+   ![Hardware connections](images/IoTHub-Lab/MXChip_connect.jpg)
 
 ## Updating MxChip Firmware
 
@@ -113,13 +113,13 @@ Your DevKit enters AP mode for configuring Wi-Fi. The screen displays the servic
 
 Now, use another Wi-Fi enabled device (computer or mobile phone) to connect to the DevKit SSID (highlighted in the previous image). Leave the password empty.
 
-![Network info and Connect button](images/IoTHub-Lab/MxChip_connect-ssid.png)
+![Network info and Connect button](images/IoTHub-Lab/MXChip_connect-ssid.png)
 
 ### Configure Wi-Fi for the DevKit
 
 Open **[192.168.0.1](http://192.168.0.1)** in the browser. Select the Wi-Fi that you want the IoT DevKit connect to, type the Wi-Fi password, then paste the device connection string you made note of previously. Then click **Save**.
 
-![Wi-Fi](images/IoTHub-Lab/Wifi-Setup.png)
+![Wi-Fi](images/IoTHub-Lab/WiFi-Setup.png)
 
 > [!NOTE]  
 > Microsoft Ready SSID  

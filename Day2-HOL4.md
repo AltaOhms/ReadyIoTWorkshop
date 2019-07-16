@@ -147,6 +147,5 @@ You have successfully set up autoprovisioning and registered a device with IoT H
 >Device Prosioning Service provides capabilities to help manage  a device's life cycle. Take a closer look at the options available under Manage Enrollment.  
 
 References: 
-- https://docs.microsoft.com/en-us/azure/iot-dps/how-to-reprovision
-- https://docs.microsoft.com/en-us/azure/iot-dps/how-to-reprovision
-- https://docs.microsoft.com/en-us/azure/iot-dps/how-to-unprovision-devices
+- <https://docs.microsoft.com/en-us/azure/iot-dps/how-to-reprovision>
+- <https://docs.microsoft.com/en-us/azure/iot-dps/how-to-unprovision-devices>

@@ -99,5 +99,5 @@ You have successfully set up Azure Time Series Insights and analyzed your device
 > - Leverage Azure AD to grant permissions to TSI API
 
 Reference: 
-- https://docs.microsoft.com/en-us/azure/time-series-insights/tutorial-create-tsi-sample-spa
-- https://docs.microsoft.com/en-us/rest/api/time-series-insights/ga-query-api
+- <https://docs.microsoft.com/en-us/azure/time-series-insights/tutorial-create-tsi-sample-spa>
+- <https://docs.microsoft.com/en-us/rest/api/time-series-insights/ga-query-api>

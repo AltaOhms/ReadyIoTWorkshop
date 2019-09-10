@@ -6,5 +6,5 @@ On Monday and Tuesday, we will be going through the following four labs:
 * [Visualize Time Series Data with Azure Time Series Insights](Day2-HOL2)
 * [Capture Device Events and Send Notifications](Day2-HOL3)
 * [Device Provisioning Service](Day2-HOL4)
-* [IoT Central](https://hellotechie.github.io/IoT-Central-HoL/)
-* [IoT Edge Hands on Lab](https://hellotechie.github.io/azureiotedgelab/)
+* [IoT Central](https://altaohms.github.io/IoT-Central-HoL/)
+* [IoT Edge Hands on Lab](https://altaohms.github.io/azureiotedgelab/)
